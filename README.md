@@ -5,3 +5,4 @@
     - Learned getting input from console
     - Learned type conversion sting -> int
     - Learned to print text with result in console screen.
+	-
